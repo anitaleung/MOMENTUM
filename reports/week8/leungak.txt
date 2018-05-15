@@ -1,0 +1,25 @@
+Anita Leung
+CSE 403: Week 3 Individual Report
+
+
+Previous Goals 
+=======================
+- Finish the task start/stop page
+- Finish login view
+- Finish task view
+- Figure out how to represent user data in code
+
+
+Updates this Week
+=======================
+- Nearly finished the login page
+- Nearly finished the project list page
+- Add routing between pages
+
+
+Goals for Upcoming Week
+=======================
+- Refine the UI 
+- Help with EBS
+- Finish the sub pages (about, for example)
+- Help finish presentations 
